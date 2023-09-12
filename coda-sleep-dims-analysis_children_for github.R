@@ -788,4 +788,4 @@ gp <-
   scale_fill_colorblind() 
 gp
 
-ggsave(filename = "U:/2022- publications/Sleep & PA/For submission/Revisions/child_plot2.png", width = 8, height = 12, dpi = 600)
+ggsave(filename = "location/of/data/name.png", width = 8, height = 12, dpi = 600)
